@@ -1,0 +1,27 @@
+title:  Riccardo Maria Bianchi
+tagline:  PhD, Particle Physicist
+author:
+  name: 'Riccardo Maria Bianchi'
+  twitter:  RicMBianchi
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: '???'
+
+google-ID: 'UA-39307176-5'
+
+menu:
+- {name: 'About', url: 'about/'}
+- {name: 'Research', url: 'research/'}
+- {name: 'Writing', url: 'writing/'}
+- {name: 'Contact', url: 'contact/'}
+
+social:
+- {icon: 'github', link: 'https://www.github.com/ric-bianchi'}
+- {icon: 'twitter', link: 'https://twitter.com/RicMBianchi'}
+- {icon: 'university', link: 'https://cern.academia.edu/RiccardoMariaBianchi'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/riccardo-maria-bianchi-8580432a/'}
+- {icon: 'envelope', link: 'mailto:rbianchi@cern.ch'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
